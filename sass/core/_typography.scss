@@ -1,0 +1,53 @@
+@font-face {
+  font-family: 'Plus Jakarta';
+  src: url('../../public/fonts/PJ-Regular.otf');
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'Plus Jakarta Medium';
+  src: url('../../public/fonts/PJ-Medium.otf');
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'Plus Jakarta Bold';
+  src: url('../../public/fonts/PJ-Bold.otf');
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'Exo SemiBold';
+  src: url('../../public/fonts/Exo-SemiBold.ttf');
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'Exo ExtraBold';
+  src: url('../../public/fonts/Exo-ExtraBold.ttf');
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'Material Icons';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../../public/fonts/icons.woff2') format('woff2');
+}
+
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased;
+}
